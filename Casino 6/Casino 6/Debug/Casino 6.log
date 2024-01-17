@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Casino 7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Casino 6.cpp
+C:\Users\Shakil Islam\Desktop\Oviktikt - Andra skrivbord\Casino 7\Casino 6\Casino 6.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  GuessDice.cpp
+  GuessRandy.cpp
+  NiceGame.cpp
+C:\Users\Shakil Islam\Desktop\Oviktikt - Andra skrivbord\Casino 7\Casino 6\NiceGame.cpp(11,23): warning C4553: '==': result of expression not used; did you intend '='?
+  OddOrEven.cpp
+  Roullete.cpp
+  utilities.cpp
+  Generating Code...
+C:\Users\Shakil Islam\Desktop\Oviktikt - Andra skrivbord\Casino 7\Casino 6\Casino 6.cpp(69): warning C4715: 'Casino::IFValidName': not all control paths return a value
+  Casino 6.vcxproj -> C:\Users\Shakil Islam\Desktop\Oviktikt - Andra skrivbord\Casino 7\Debug\Casino 6.exe
